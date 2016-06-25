@@ -12,6 +12,7 @@ public class JavaDeque {
         int max = 0;
         Counter counter = new Counter(100000+1);
 
+
         for (int i = 0; i < n; i++)
         {
             if(max == m)
